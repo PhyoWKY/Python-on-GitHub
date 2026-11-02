@@ -1,1 +1,1 @@
-print("Bubble is not to be trusted")
+print("The conflict of merging blue and red AI")
