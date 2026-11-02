@@ -1,1 +1,1 @@
-print("Bubble is not to be trusted")
+print("Caine is corrupted by Bubble")
